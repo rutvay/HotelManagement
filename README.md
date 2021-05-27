@@ -1,8 +1,8 @@
 # HotelManagement
-This projects is just a basic guid to NETBEANS 
-This project will help you with developing your own first guided net beans project using JAVA.
-Net beans is very uselfull in app development which makes making GUI for any application very easy and hasel free
-The zip file contains the latest JDBC driver and the project in net beans so you can just directly import the project and run it in your system.
-This project uses MySql as Data Base services and all the data is stored in form of relations
-I hope you like my project, ping me for any queries.
-Happy learning.
+
+<H2>Net Beans</h2>
+<p> This projects introduces Net beans app development enviroment. And also talks about MYSQL as backend and as data base. </p>
+<a href="https://drive.google.com/file/d/1CBNEXVjBTAm99GvtuTCbokCyFfIVDsa8/view?usp=sharing"> Click here for my go through Video tutorial on this project </A>
+<br>
+<p>
+Happy learning.</p>
